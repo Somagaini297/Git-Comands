@@ -11,3 +11,11 @@ cls or clear---> to clear screen
 git show ---> to show commits and logs
 git logs--> to show all commits
 git reset --hard commit id---> to go back to previous commit 
+
+Maven life cycle
+1) Validate 2) Compile 3) Test 4) Package 5) Verify 6) Integration Test 7) Install 8) Deploy
+Maven Commands: mvn clean, mvn compile, mvn test-compile, mvn test, mvn package, mvn install and mvn deploy
+
+mvn clean install, mvn -X install---> in debug mode
+mvn install -DskipTests--> to skip tests
+
