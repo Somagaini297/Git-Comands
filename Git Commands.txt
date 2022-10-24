@@ -1,0 +1,13 @@
+git commands
+
+git init--> to initilize git repository
+git add --> to add file to repository
+git coomit -m "message" --> to add file to stage area
+git push -u origin branch-name--> to push file to remote branch
+git clone remote branch url--> to get data from git remote branch
+git config --global user.mail, 
+git config --global user.name--> to specify username and mail
+cls or clear---> to clear screen
+git show ---> to show commits and logs
+git logs--> to show all commits
+git reset --hard commit id---> to go back to previous commit 
